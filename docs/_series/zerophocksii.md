@@ -4,7 +4,7 @@ author: mellow. mining.
 image: https://i.imgur.com/w11k1p6.gif
 date: 2022-02-21
 description: ZEROPHOCKSII, the ZEROPHOCKS sequel. ZEROPHOCKS incorporate glitch stylings paired with pop and NFT culture.  Grail issuance is 50; original buyers of grail card receive all subassets via airdrop within 24 hours of purchase (usually sooner).    
-subs: 30
+subs: 
   -
     name: ANON
     image: https://i.imgur.com/3cp3kE8.gif
